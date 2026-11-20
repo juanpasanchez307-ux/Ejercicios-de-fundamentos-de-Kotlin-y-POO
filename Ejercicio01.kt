@@ -1,8 +1,8 @@
 fun main() {
-    val nombre: String = "..."
-    var edad: Int = 0
-    val correo: String = "..."
-    val telefono: String = "..."
+    val nombre: String = "Juan Francisco"
+    var edad: Int = 18
+    val correo: String = "juanpasanchez307"
+    val telefono: String = "8123456789"
     var cuentaActiva: Boolean = true
     val satisfaccion: Double = 0.0
 
