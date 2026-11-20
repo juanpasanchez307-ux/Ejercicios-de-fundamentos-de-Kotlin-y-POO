@@ -1,17 +1,21 @@
 fun main() {
     val nombre: String = "Juan Francisco"
     var edad: Int = 18
-    val correo: String = "juanpasanchez307"
+    val correo: String = "juanpasanchez307@emai.com"
     val telefono: String = "8123456789"
     var cuentaActiva: Boolean = true
-    val satisfaccion: Double = 0.0
+    val satisfaccion: Double = 9.5
 
     println("INFORMACION DEL USUARIO")
     println("Nombre: $nombre")
-    // Haz lo mismo con edad, correo, telefono, cuentaActiva y satisfaccion
-
-    // Modifica al menos dos variables (solo las var se pueden cambiar)
-
+    println("Edad: $edad")
+println("Correo: $correo")
+println("Telefono: $telefono")
+println("Cuenta activa: $cuentaActiva")
+println("Satisfaccion: $satisfaccion")
+    edad = 19
+cuentaActiva = false
     println("\nINFORMACION ACTUALIZADA")
-    // Muestra de nuevo los valores que cambiaste
+   println("Nueva edad: $edad")
+println("Cuenta activa: $cuentaActiva")
 }
