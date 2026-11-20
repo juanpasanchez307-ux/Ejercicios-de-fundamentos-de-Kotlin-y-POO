@@ -1,7 +1,7 @@
 # Ejercicios-Kotlin
 
-**Nombre:** Tu nombre completo
-**Grupo:** DSM03AV
+**Nombre:** Sanchez Perez Juan Francisco
+**Grupo:** DSM04AV
 
 Ejercicios de fundamentos de Kotlin y POO.
 
